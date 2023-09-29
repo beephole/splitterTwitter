@@ -7,3 +7,4 @@ Pillow
 torch>=1.7
 torchvision
 tqdm
+matplotlib==3.8.0
