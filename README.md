@@ -73,7 +73,7 @@ python main.py path/to/image.jpg
 ### Acknowledgements
   Credits goes [ @nihui ](https://github.com/nihui) for realsr-ncnn-vulkan repo
  
- - Download if other os than Windows [realsr-ncnn-vulkan.exe](https://github.com/xinntao/Real-ESRGAN#portable-executable-files-ncnn)
+ - Download for MAC or Unix if other os than Windows - [realsr-ncnn-vulkan.exe](https://github.com/xinntao/Real-ESRGAN#portable-executable-files-ncnn)
    
 
 
