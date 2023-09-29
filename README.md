@@ -21,8 +21,10 @@ https://github.com/beephole/splitterTwitter/assets/118709832/4c647418-4c25-40f5-
 1. Install Python 
 2. Clone this repo or download zip and extraxt 
 3. Open terminal and navigate to that folder
-4. Run `python main.py` or double click it for a tk window to choose manually
-5. For cli run `python main.py path/to/imgName.jpg`
+4. Download and extraxt [ @Vulkan for Windows ](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip) in that Folder (immportant)
+   
+6. Run `python main.py` or double click it for a tk window to choose manually
+7. For cli run `python main.py path/to/imgName.jpg`
 
 
 ## Installation
