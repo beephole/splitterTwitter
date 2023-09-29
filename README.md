@@ -45,7 +45,8 @@ Requires OpenCV and Python.
 pip install -r requirements.txt
 
 ```
-Run, double clikc or run as a cli 
+Download and extraxt [ @Vulkan for Windows ](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip) in Here (immportant)
+Run, double click or run as a cli 
 
 ```
 python main.py
